@@ -1,0 +1,16 @@
+[project]
+name = "number_guessing_game"
+version = "0.1"
+authors = [
+  { name="LEVEQUE Clément", email="clementleveque911@gmail.com" },
+]
+description = "Just a regular guessing game"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/ClemouDouard/number_guessing_game"
